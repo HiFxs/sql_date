@@ -1,0 +1,1 @@
+delete from Student where sdept='Î¢µçÏµ';

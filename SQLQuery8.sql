@@ -1,0 +1,1 @@
+insert into Br(sno,bno,bdate) values('1001','b02','2001-9-5');

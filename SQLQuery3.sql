@@ -1,0 +1,1 @@
+alter table Book add  publishdate nchar(20); 
